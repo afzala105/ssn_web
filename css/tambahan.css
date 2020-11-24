@@ -1,0 +1,45 @@
+#menu-berita {
+    background: #fff;
+    height: 360px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+#menu-berita a:hover {
+    opacity: 0.1;
+}
+
+#menu-berita button {
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+}
+/* 
+#menu-berita .icon {
+    width: 64px;
+    height: 64px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #18d26e;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    transition: 0.3s;
+    margin: auto auto;
+} */
+
+#menu-berita .icon i {
+    font-size: 86px;
+    line-height: 1;
+    color: #fff;
+    transition: 0.3s;
+    width: 100%;
+    height: 100%;  
+}
+
+#menu-berita .icon h2 {
+    font-size: 20px;
+    margin: 0;
+    padding: 20px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
